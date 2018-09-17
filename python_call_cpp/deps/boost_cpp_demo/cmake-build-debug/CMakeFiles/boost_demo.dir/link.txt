@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libboost_demo.so -o libboost_demo.so CMakeFiles/boost_demo.dir/hello.cpp.o -lboost_python-py27 

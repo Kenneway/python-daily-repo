@@ -48,10 +48,10 @@ RM = /opt/clion-2018.2.1/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo
+CMAKE_SOURCE_DIR = /home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug
+CMAKE_BINARY_DIR = /home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/CMakeFiles /home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/CMakeFiles /home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -111,17 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named ctypes_example
+# Target rules for targets named ctypes_demo
 
 # Build rule for target.
-ctypes_example: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 ctypes_example
-.PHONY : ctypes_example
+ctypes_demo: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ctypes_demo
+.PHONY : ctypes_demo
 
 # fast build rule for target.
-ctypes_example/fast:
-	$(MAKE) -f CMakeFiles/ctypes_example.dir/build.make CMakeFiles/ctypes_example.dir/build
-.PHONY : ctypes_example/fast
+ctypes_demo/fast:
+	$(MAKE) -f CMakeFiles/ctypes_demo.dir/build.make CMakeFiles/ctypes_demo.dir/build
+.PHONY : ctypes_demo/fast
 
 wrapper.o: wrapper.cpp.o
 
@@ -129,7 +129,7 @@ wrapper.o: wrapper.cpp.o
 
 # target to build an object file
 wrapper.cpp.o:
-	$(MAKE) -f CMakeFiles/ctypes_example.dir/build.make CMakeFiles/ctypes_example.dir/wrapper.cpp.o
+	$(MAKE) -f CMakeFiles/ctypes_demo.dir/build.make CMakeFiles/ctypes_demo.dir/wrapper.cpp.o
 .PHONY : wrapper.cpp.o
 
 wrapper.i: wrapper.cpp.i
@@ -138,7 +138,7 @@ wrapper.i: wrapper.cpp.i
 
 # target to preprocess a source file
 wrapper.cpp.i:
-	$(MAKE) -f CMakeFiles/ctypes_example.dir/build.make CMakeFiles/ctypes_example.dir/wrapper.cpp.i
+	$(MAKE) -f CMakeFiles/ctypes_demo.dir/build.make CMakeFiles/ctypes_demo.dir/wrapper.cpp.i
 .PHONY : wrapper.cpp.i
 
 wrapper.s: wrapper.cpp.s
@@ -147,7 +147,7 @@ wrapper.s: wrapper.cpp.s
 
 # target to generate assembly for a file
 wrapper.cpp.s:
-	$(MAKE) -f CMakeFiles/ctypes_example.dir/build.make CMakeFiles/ctypes_example.dir/wrapper.cpp.s
+	$(MAKE) -f CMakeFiles/ctypes_demo.dir/build.make CMakeFiles/ctypes_demo.dir/wrapper.cpp.s
 .PHONY : wrapper.cpp.s
 
 # Help Target
@@ -158,7 +158,7 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... ctypes_example"
+	@echo "... ctypes_demo"
 	@echo "... wrapper.o"
 	@echo "... wrapper.i"
 	@echo "... wrapper.s"

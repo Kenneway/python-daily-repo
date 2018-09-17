@@ -1,0 +1,3 @@
+/media/czj/5b64d2ad-d42c-48b2-bd96-f345960ab43a/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/boost_cpp_demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/czj/5b64d2ad-d42c-48b2-bd96-f345960ab43a/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/boost_cpp_demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/czj/5b64d2ad-d42c-48b2-bd96-f345960ab43a/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/boost_cpp_demo/cmake-build-debug/CMakeFiles/hello.dir

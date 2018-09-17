@@ -59,45 +59,45 @@ RM = /opt/clion-2018.2.1/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo
+CMAKE_SOURCE_DIR = /home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug
+CMAKE_BINARY_DIR = /home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/ctypes_example.dir
+# Target rules for target CMakeFiles/ctypes_demo.dir
 
 # All Build rule for target.
-CMakeFiles/ctypes_example.dir/all:
-	$(MAKE) -f CMakeFiles/ctypes_example.dir/build.make CMakeFiles/ctypes_example.dir/depend
-	$(MAKE) -f CMakeFiles/ctypes_example.dir/build.make CMakeFiles/ctypes_example.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target ctypes_example"
-.PHONY : CMakeFiles/ctypes_example.dir/all
+CMakeFiles/ctypes_demo.dir/all:
+	$(MAKE) -f CMakeFiles/ctypes_demo.dir/build.make CMakeFiles/ctypes_demo.dir/depend
+	$(MAKE) -f CMakeFiles/ctypes_demo.dir/build.make CMakeFiles/ctypes_demo.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target ctypes_demo"
+.PHONY : CMakeFiles/ctypes_demo.dir/all
 
 # Include target in all.
-all: CMakeFiles/ctypes_example.dir/all
+all: CMakeFiles/ctypes_demo.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/ctypes_example.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ctypes_example.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/ctypes_example.dir/rule
+CMakeFiles/ctypes_demo.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ctypes_demo.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/ctypes_demo.dir/rule
 
 # Convenience name for target.
-ctypes_example: CMakeFiles/ctypes_example.dir/rule
+ctypes_demo: CMakeFiles/ctypes_demo.dir/rule
 
-.PHONY : ctypes_example
-
-# clean rule for target.
-CMakeFiles/ctypes_example.dir/clean:
-	$(MAKE) -f CMakeFiles/ctypes_example.dir/build.make CMakeFiles/ctypes_example.dir/clean
-.PHONY : CMakeFiles/ctypes_example.dir/clean
+.PHONY : ctypes_demo
 
 # clean rule for target.
-clean: CMakeFiles/ctypes_example.dir/clean
+CMakeFiles/ctypes_demo.dir/clean:
+	$(MAKE) -f CMakeFiles/ctypes_demo.dir/build.make CMakeFiles/ctypes_demo.dir/clean
+.PHONY : CMakeFiles/ctypes_demo.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/ctypes_demo.dir/clean
 
 .PHONY : clean
 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libctypes_demo.so -o libctypes_demo.so CMakeFiles/ctypes_demo.dir/wrapper.cpp.o 

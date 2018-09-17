@@ -21,3 +21,4 @@ int fact(int n)
     TestFact t;
     return t.fact(n);
 }
+

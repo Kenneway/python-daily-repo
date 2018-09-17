@@ -8,40 +8,40 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug"/>
+				<Option working_dir="/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug"/>
+				<Option working_dir="/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug"/>
+				<Option working_dir="/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="ctypes_example">
-				<Option output="/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/libctypes_example.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug"/>
+			<Target title="ctypes_demo">
+				<Option output="/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/libctypes_demo.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug"/>
 				<Option object_output="./"/>
-				<Option type="2"/>
+				<Option type="3"/>
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="/usr/include/python2.7"/>
@@ -56,17 +56,17 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 ctypes_example"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 ctypes_demo"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="ctypes_example/fast">
-				<Option output="/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/libctypes_example.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug"/>
+			<Target title="ctypes_demo/fast">
+				<Option output="/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/libctypes_demo.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug"/>
 				<Option object_output="./"/>
-				<Option type="2"/>
+				<Option type="3"/>
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="/usr/include/python2.7"/>
@@ -81,17 +81,17 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 ctypes_example/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 ctypes_demo/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/wrapper.cpp">
-			<Option target="ctypes_example"/>
+		<Unit filename="/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/wrapper.cpp">
+			<Option target="ctypes_demo"/>
 		</Unit>
-		<Unit filename="/home/czj/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/CMakeLists.txt">
+		<Unit filename="/home/czj/CS/topics/python/develop/python-daily-repo/python_call_cpp/deps/ctypes_cpp_demo/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
