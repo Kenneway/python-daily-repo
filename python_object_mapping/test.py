@@ -25,7 +25,7 @@ json.toObject = __praseObject
 # Example code
 class Student(object):
     def __init__(self, name="", age=0):
-        super().__init__()
+        super(Student, self).__init__()
         self.name = name
         self.age = age
 
