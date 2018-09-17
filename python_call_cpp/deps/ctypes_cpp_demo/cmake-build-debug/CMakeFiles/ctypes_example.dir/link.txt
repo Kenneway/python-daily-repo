@@ -1,0 +1,2 @@
+/usr/bin/ar qc libctypes_example.a  CMakeFiles/ctypes_example.dir/wrapper.cpp.o
+/usr/bin/ranlib libctypes_example.a
